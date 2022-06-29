@@ -1,1 +1,3 @@
 # js-miniprojects
+
+new line
